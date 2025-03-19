@@ -177,7 +177,7 @@ while outside == True:
     limit = lololimitwprint(m)
     if turns == 15:
         print(text_border)
-        print(" * Lolo had enough and went home...")
+        print(" * Lolo had enough and slithered home...")
         print("Her owner was delighted to see her!")
         lengthdiff = length - orig_length
         massdiff = m - lolo_startmass
