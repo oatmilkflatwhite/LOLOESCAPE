@@ -191,6 +191,7 @@ while outside == True:
         print(tab + "\"You've grown " + str(engst) + " metres (" + str(ftst) + " ft)!\"")
         print(tab + "Lolo ate " + str(engst2) + " kilogrammes (" + str(lbst) + " lb) of food!")
         input("Press any key to play again! ")
+        turns = 1
         print(text_border)
 
     else:
